@@ -2,6 +2,8 @@
 
 **JimyCalvo/JimyCalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hello Work, Soy un estudiante en Tecnico de Desarollo de Software, en la Escuela Politecnica del Ecuador
+
 Me pueden contarctar a traves de mi correo electronico jimy1152@gmail.com
 
 
