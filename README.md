@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **JimyCalvo/JimyCalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Me pueden contarctar a traves de mi correo electronico jimy1152@gmail.com
